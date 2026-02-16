@@ -22,53 +22,53 @@ DAX – Creating measures and calculated columns
 
 1. Data Extraction (PostgreSQL)
 
-  Wrote SQL queries to extract relevant customer and transaction data
+    Wrote SQL queries to extract relevant customer and transaction data
 
-  Used JOINs, GROUP BY, aggregate functions, and filtering
+    Used JOINs, GROUP BY, aggregate functions, and filtering
 
-  Created datasets for customer and transaction analysis
+    Created datasets for customer and transaction analysis
 
 2. Data Cleaning & Transformation (Excel and Power BI)
 
-  Handled missing and null values
+    Handled missing and null values
 
-  Removed duplicates
+    Removed duplicates
 
-  Standardized data formats
+    Standardized data formats
 
-  Created calculated columns
+    Created calculated columns
 
-  Transformed data using Power Query
+    Transformed data using Power Query
 
 3. Data Modeling & Visualization (Power BI)
 
-  Built relationships between tables
+    Built relationships between tables
 
-  Created interactive dashboards
+    Created interactive dashboards
 
-  Developed KPIs and measures using DAX
+    Developed KPIs and measures using DAX
 
-  Designed user-friendly and business-focused visuals
+    Designed user-friendly and business-focused visuals
 
 **Dashboard Features**
 
-  Customer Analysis Dashboard
+    Customer Analysis Dashboard
 
-  Revenue by income group
+    Revenue by income group
 
-  Revenue by age group
+    Revenue by age group
 
-  Revenue by education level
+    Revenue by education level
 
-  Revenue by marital status
+    Revenue by marital status
 
-  Revenue by job type
+    Revenue by job type
 
-  Revenue by state
+    Revenue by state
 
-  Weekly revenue trends
+    Weekly revenue trends
 
-  Customer segmentation analysis
+    Customer segmentation analysis
 
 **Transaction Analysis Dashboard**
 
