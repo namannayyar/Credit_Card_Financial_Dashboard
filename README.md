@@ -22,111 +22,111 @@ DAX – Creating measures and calculated columns
 
 1. Data Extraction (PostgreSQL)
 
-Wrote SQL queries to extract relevant customer and transaction data
+  Wrote SQL queries to extract relevant customer and transaction data
 
-Used JOINs, GROUP BY, aggregate functions, and filtering
+  Used JOINs, GROUP BY, aggregate functions, and filtering
 
-Created datasets for customer and transaction analysis
+  Created datasets for customer and transaction analysis
 
 2. Data Cleaning & Transformation (Excel and Power BI)
 
-Handled missing and null values
+  Handled missing and null values
 
-Removed duplicates
+  Removed duplicates
 
-Standardized data formats
+  Standardized data formats
 
-Created calculated columns
+  Created calculated columns
 
-Transformed data using Power Query
+  Transformed data using Power Query
 
 3. Data Modeling & Visualization (Power BI)
 
-Built relationships between tables
+  Built relationships between tables
 
-Created interactive dashboards
+  Created interactive dashboards
 
-Developed KPIs and measures using DAX
+  Developed KPIs and measures using DAX
 
-Designed user-friendly and business-focused visuals
+  Designed user-friendly and business-focused visuals
 
 **Dashboard Features**
 
-Customer Analysis Dashboard
+  Customer Analysis Dashboard
 
-Revenue by income group
+  Revenue by income group
 
-Revenue by age group
+  Revenue by age group
 
-Revenue by education level
+  Revenue by education level
 
-Revenue by marital status
+  Revenue by marital status
 
-Revenue by job type
+  Revenue by job type
 
-Revenue by state
+  Revenue by state
 
-Weekly revenue trends
+  Weekly revenue trends
 
-Customer segmentation analysis
+  Customer segmentation analysis
 
 **Transaction Analysis Dashboard**
 
-Revenue by card category (Blue, Silver, Gold, Platinum)
+  Revenue by card category (Blue, Silver, Gold, Platinum)
 
-Revenue by transaction type (Swipe, Chip, Online)
+  Revenue by transaction type (Swipe, Chip, Online)
 
-Revenue by expenditure type (Fuel, Grocery, Travel, etc.)
+  Revenue by expenditure type (Fuel, Grocery, Travel, etc.)
 
-Quarterly revenue trends
+  Quarterly revenue trends
 
-Total transaction count analysis
+  Total transaction count analysis
 
 **Key Business Insights**
 
-Blue card category generates the highest revenue contribution
+  Blue card category generates the highest revenue contribution
 
-High-income customers contribute significantly to overall revenue
+  High-income customers contribute significantly to overall revenue
 
-Swipe transactions are the most frequently used transaction method
+  Swipe transactions are the most frequently used transaction method
 
-Businessman and white-collar segments generate higher revenue
+  Businessman and white-collar segments generate higher revenue
 
-Revenue trends vary across customer demographics and regions
+  Revenue trends vary across customer demographics and regions
 
 **Skills Demonstrated**
 
-SQL querying (PostgreSQL)
+  SQL querying (PostgreSQL)
 
-Data cleaning and preprocessing
+  Data cleaning and preprocessing
 
-Data transformation
+  Data transformation
 
-Data modeling
+  Data modeling
 
-DAX calculations
+  DAX calculations
 
-Dashboard development
+  Dashboard development
 
-Business intelligence reporting
+  Business intelligence reporting
 
-Data visualization
+  Data visualization
 
-Analytical thinking and insight generation
+  Analytical thinking and insight generation
 
 **Business Value**
 
-This dashboard helps businesses:
+  This dashboard helps businesses:
 
-Monitor credit card revenue performance
+  Monitor credit card revenue performance
 
-Identify high-value customer segments
+  Identify high-value customer segments
 
-Analyze customer spending behavior
+  Analyze customer spending behavior
 
-Track transaction trends
+  Track transaction trends
 
-Support data-driven decision making
+  Support data-driven decision making
 
 Author
 Naman Nayyar
